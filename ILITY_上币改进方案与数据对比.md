@@ -1,4 +1,4 @@
-# ILITY vs. ARTX (Ultiland) CEX 上币数据对比与差距分析
+# ILITY CEX 上币数据对比与差距分析
 
 ## 1. 核心数据对比 (Real-time vs. Target)
 
@@ -54,7 +54,7 @@
 ### 第二优先级：地区垂直社群建设 (Regional Expansion - Telegram Topic)
 -   **建议方案**：正式建立 **ILITY VIETNAM** 和 **ILITY TURKEY** 地区二级群组，并采用 **Telegram Topics** 模式。
 -   **详细执行**：
-    -   **Topics 架构**：在主群开启 Topics 功能，细分为 `#General`, `#News`, `#ZK-Tech`, `#Airdrop-Alpha`。
+    -   **Topics 架构**：在主群开启 Topics 功能，细分为 `#General`, `#News`, `#Vietnam`, `#Turkey`等。
     -   **本地化运营**：雇佣当地社区 Leader，每日发布本地化新闻，并强制要求 Topics 下的讨论热度。
     -   **目标**：向 CEX 证明 ILITY 在核心币圈地区（东南亚、中东）有真实且组织严密的活跃信徒，而非只有僵尸粉。
 
